@@ -24,7 +24,7 @@ class Search extends Component {
                     type="text"
                     name="text" 
                     className="form__input" 
-                    placeholder="Input name"
+                    placeholder="Input username here"
                     value={this.state.text}
                     onChange={this.onChange}
                     />
